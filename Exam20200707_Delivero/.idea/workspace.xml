@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4c66b598-1345-44ac-9305-d91667df2320" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/delivery/Delivery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/delivery/Delivery.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/it/polito/po/test/AllTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/it/polito/po/test/AllTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/it/polito/po/test/TestR1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/it/polito/po/test/TestR1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/it/polito/po/test/TestR2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/it/polito/po/test/TestR2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/it/polito/po/test/TestR3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/it/polito/po/test/TestR3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/it/polito/po/test/TestR4R5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/it/polito/po/test/TestR4R5.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1trYJRCtnb98QdMVmvVrylN9CH3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../OOP_LAB_Clinic" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\GioGio\eclipse-workspace\Exam20200707_Delivero\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.AllTests">
+    <configuration name="AllTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Exam20200707_Delivero" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.it.polito.po.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.it.polito.po.test" />
+      <option name="MAIN_CLASS_NAME" value="test.it.polito.po.test.AllTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestApp.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Exam20200707_Delivero" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="example" />
+      <option name="MAIN_CLASS_NAME" value="example.TestApp" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AllTests" />
+        <item itemvalue="JUnit.TestApp.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\GioGio\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="C:\Users\GioGio\eclipse-workspace\Exam20200707_Delivero" />
+          <option name="myCopyRoot" value="C:\Users\GioGio\eclipse-workspace\Exam20200707_Delivero" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="C:\Users\GioGio\eclipse-workspace\Exam20200707_Delivero" />
+          <option name="myCopyRoot" value="C:\Users\GioGio\eclipse-workspace\Exam20200707_Delivero\src\test" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="C:\Users\GioGio\eclipse-workspace\Exam20200707_Delivero" />
+          <option name="myCopyRoot" value="C:\Users\GioGio\eclipse-workspace\Exam20200707_Delivero" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="C:\Users\GioGio\eclipse-workspace\Exam20200707_Delivero" />
+          <option name="myCopyRoot" value="C:\Users\GioGio\eclipse-workspace\Exam20200707_Delivero\src\test" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4c66b598-1345-44ac-9305-d91667df2320" name="Default Changelist" comment="" />
+      <created>1623528608079</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623528608079</updated>
+      <workItem from="1623528613061" duration="196000" />
+      <workItem from="1623591234851" duration="165000" />
+      <workItem from="1623661177456" duration="5616000" />
+      <workItem from="1623862182085" duration="21000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

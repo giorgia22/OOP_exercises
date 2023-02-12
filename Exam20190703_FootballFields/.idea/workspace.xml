@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9b4ad4c6-f20f-473b-a79f-3cf22ef80e31" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Exam20190703_FootballFields.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/it/polito/oop/futsal/Associate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/it/polito/oop/futsal/Field.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/it/polito/oop/futsal/Fields.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/it/polito/oop/futsal/Fields.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1u7GLbLDBiMmkzjg8722NbvD9Od" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="RunManager" selected="JUnit.AllTests">
+    <configuration name="AllTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Exam20190703_FootballFields" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="it.polito.po.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="it.polito.po.test" />
+      <option name="MAIN_CLASS_NAME" value="it.polito.po.test.AllTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestApp" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Exam20190703_FootballFields" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestApp" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AllTests" />
+        <item itemvalue="JUnit.TestApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\GioGio\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="C:\Users\GioGio\eclipse-workspace\Exam20190703_FootballFields" />
+          <option name="myCopyRoot" value="C:\Users\GioGio\eclipse-workspace\Exam20190703_FootballFields" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="C:\Users\GioGio\eclipse-workspace\Exam20190703_FootballFields" />
+          <option name="myCopyRoot" value="C:\Users\GioGio\eclipse-workspace\Exam20190703_FootballFields\src\test" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="C:\Users\GioGio\eclipse-workspace\Exam20190703_FootballFields" />
+          <option name="myCopyRoot" value="C:\Users\GioGio\eclipse-workspace\Exam20190703_FootballFields" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="C:\Users\GioGio\eclipse-workspace\Exam20190703_FootballFields" />
+          <option name="myCopyRoot" value="C:\Users\GioGio\eclipse-workspace\Exam20190703_FootballFields\src\test" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9b4ad4c6-f20f-473b-a79f-3cf22ef80e31" name="Default Changelist" comment="" />
+      <created>1624009159640</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624009159640</updated>
+      <workItem from="1624009161234" duration="5762000" />
+      <workItem from="1624015011270" duration="27000" />
+      <workItem from="1624015067110" duration="601000" />
+      <workItem from="1624113726669" duration="1725000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/it/polito/oop/futsal/Fields.java</url>
+          <line>189</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/it/polito/oop/futsal/Fields.java</url>
+          <line>122</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/it/polito/oop/futsal/Fields.java</url>
+          <line>166</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
